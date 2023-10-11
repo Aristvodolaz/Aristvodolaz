@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/aristvodolaz" target="_blank">Arina</a> 
-<img src="https://media.giphy.com/media/hZeqOP55N3crK/giphy.gif" height="32"/></h1>
-<h3 align="center">Android developer from Russia 🇷🇺</h3>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="48"/></h1>
+<h3 align="center">Android developer from Russia</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
