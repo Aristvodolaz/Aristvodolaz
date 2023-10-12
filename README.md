@@ -9,13 +9,6 @@
 ### :fire: My stat:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1" width="800" height="400"/>
-  <ul>
-    <img src="https://github-readme-stats.vercel.app/api?username=aristvodolaz" width="400" height="200"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristvodolaz&layout=compact" width="400" height="200"/>
-  </ul>
-  <ul>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aristvodolaz&theme=solarized_dark"  width="800" height="400"/>
-  </ul>
   <div>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aristvodolaz&theme=solarized_dark" width="400" height="200"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aristvodolaz&theme=solarized_dark" width="400" height="200"/>
