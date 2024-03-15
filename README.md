@@ -2,9 +2,6 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="48"/></h1>
 <h3 align="center">Android developer from Russia</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
-</div>
 
 ### :fire: My stat:
 <div align="center">
