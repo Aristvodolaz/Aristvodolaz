@@ -6,7 +6,7 @@
 
 ### 📱 Мобильная разработка
 - **Android**: Java, Kotlin, Jetpack Compose
-- Архитектуры: MVVM, MVI
+- Архитектуры: MVVM, MVI, MVP, Clean Architecture
 - Асинхронность: Kotlin Coroutines, Flow, RxJava2
 - Зависимости: Hilt (DI)
 - Интеграция API: Retrofit, WebSocket, R-Signal
