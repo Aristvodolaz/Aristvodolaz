@@ -40,8 +40,8 @@
 - **Интеграция с API**: Postman, Insomnia
 
 ## 📈 Моя статистика на GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aristvodolaz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aristvodolaz&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aristvodolaz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristvodolaz&layout=compact&theme=radical)
 
 ## 📫 Как со мной связаться
 - Email: kap.moral22@gmail.com
