@@ -41,7 +41,7 @@
 
 ## 📈 Моя статистика на GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aristvodolaz&show_icons=true&theme=radical)
-![Top Langs]( <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aristvodolaz&theme=solarized_dark" width="400" height="200"/>)
+![Top Langs]( https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aristvodolaz&theme=solarized_dark")
 
 ## 📫 Как со мной связаться
 - Email: kap.moral22@gmail.com
