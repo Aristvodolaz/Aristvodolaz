@@ -41,7 +41,6 @@
 
 ## 📈 Моя статистика на GitHub
 <div align="center">
-  <div>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aristvodolaz&theme=solarized_dark" width="400" height="200"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aristvodolaz&theme=solarized_dark" width="400" height="200"/>
   </div>
