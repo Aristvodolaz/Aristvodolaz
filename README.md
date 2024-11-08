@@ -1,55 +1,51 @@
-# Привет! 👋 Я Full Stack разработчик
+# Hi there! 👋 I'm a Full Stack Developer
 
-Меня зовут  <a href="https://vk.com/aristvodolaz" target="_blank">Арина</a>, и я специализируюсь на разработке мобильных и desktop приложений, веб-бэкэндов и поддержке серверной инфраструктуры. 
+I'm [Arina](https://vk.com/aristvodolaz), a dedicated developer specializing in mobile and desktop applications, web backends, and server infrastructure maintenance.
 
-## 🔧 Технологии и навыки
+## 🔧 Technologies and Skills
 
-### 📱 Мобильная разработка
+### 📱 Mobile Development
 - **Android**: Java, Kotlin, Jetpack Compose
-- Архитектуры: MVVM, MVI, MVP, Clean Architecture
-- Асинхронность: Kotlin Coroutines, Flow, RxJava2
-- Зависимости: Hilt (DI)
-- Интеграция API: Retrofit, WebSocket, R-Signal
-- Работа с базами данных: Room, SQLite, Realm
-- Тестирование: Unit-тестирование с JUnit и Mockito, UI-тестирование с Espresso
-- Навигация: Jetpack Navigation Component
+- Architectures: MVVM, MVI, MVP, Clean Architecture
+- Asynchronous Programming: Kotlin Coroutines, Flow, RxJava2
+- Dependency Injection: Hilt (DI)
+- API Integration: Retrofit, WebSocket, R-Signal
+- Database Management: Room, SQLite, Realm
+- Testing: Unit testing with JUnit and Mockito, UI testing with Espresso
+- Navigation: Jetpack Navigation Component
 
-
-### 🌐 Бэкенд
+### 🌐 Backend Development
 - **Node.js**: Express, NestJS
-- **Python**: FastAPI, Flask, Tkinter для десктопа
-- Работа с API: GraphQL, RESTful
-- Вебсокеты, сокет-серверы
-- Аутентификация и авторизация: JWT, OAuth
+- **Python**: FastAPI, Flask, Tkinter for desktop apps
+- API Management: GraphQL, RESTful APIs
+- WebSockets, Socket Servers
+- Authentication and Authorization: JWT, OAuth
 
-### 🗄️ Работа с базами данных
+### 🗄️ Database Management
 - **PostgreSQL**, **MS SQL**
-- Оптимизация запросов и работа с индексами
-- Миграции, репликации
+- Query Optimization and Index Management
+- Migrations, Replications
 
-### 🚀 Деплой и поддержка
-- **Серверы**: Ubuntu
-- Автоматизация деплоя: Docker, Docker Compose
+### 🚀 Deployment and Server Maintenance
+- **Servers**: Ubuntu
+- Deployment Automation: Docker, Docker Compose
 - CI/CD: GitHub Actions, Jenkins
-- Мониторинг: Prometheus, Grafana
-- Системное администрирование и оптимизация серверов
+- Monitoring: Prometheus, Grafana
+- System Administration and Server Optimization
 
-### 🛠️ Инструменты
-- **Контроль версий**: Git, GitHub, GitLab
-- **Проектирование приложений**: UML, ER-диаграммы, BPMN
-- **Интеграция с API**: Postman, Insomnia
+### 🛠️ Tools
+- **Version Control**: Git, GitHub, GitLab
+- **Application Design**: UML, ER Diagrams, BPMN
+- **API Integration and Testing**: Postman, Insomnia
 
-## 📈 Моя статистика на GitHub
+## 📈 GitHub Stats
 <div align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aristvodolaz&theme=solarized_dark" width="400" height="200"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aristvodolaz&theme=solarized_dark" width="400" height="200"/>
   </div>
       
-
-## 📫 Как со мной связаться
+## 📫 Let's Connect
 - Email: kap.moral22@gmail.com
-- LinkedIn: https://ru.linkedin.com/in/arina-prokopenko-99895a300
-- Telegram: @corrywilliams
-
-
+- LinkedIn: [Arina Prokopenko](https://ru.linkedin.com/in/arina-prokopenko-99895a300)
+- Telegram: [@corrywilliams](https://t.me/corrywilliams)
 
