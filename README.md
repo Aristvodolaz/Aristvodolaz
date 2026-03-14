@@ -14,7 +14,7 @@
 
 ## 🚀 About Me  
 
-Android & Full Stack Engineer with **3.5+ years of commercial experience**, building products from **FinTech apps with 500k+ users** to **AR/VR solutions for smart glasses**.  
+Android & Full Stack Engineer with **4+ years of commercial experience**, building products from **FinTech apps with 500k+ users** to **AR/VR solutions for smart glasses**.  
 I specialize in **mobile systems, backend services, and infrastructure scaling**, combining deep technical expertise with a strong business focus.  
 
 📚 Author of **50+ scientific publications** (indexed in ВАК, РИНЦ, SCOPUS),  
