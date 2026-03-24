@@ -1,60 +1,87 @@
-# <div align="center">👋 Hi, I'm Arina — Full Stack & Android Engineer</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Android+%26+Backend+Engineer;Mobile+%26+Server+Architect;AR/VR+%26+FinTech+Expert;Scaling+Systems+%7C+Delivering+Impact" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <a href="https://ru.linkedin.com/in/arina-prokopenko-99895a300"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/corrywilliams"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:kap.moral22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Android+%26+Full+Stack+Engineer;AR%2FVR+%7C+WebRTC+%7C+Systems+Architecture;Building+products+people+actually+use)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🚀 About Me  
+## Hi, I'm Arina 👋
 
-Android & Full Stack Engineer with **4+ years of commercial experience**, building products from **FinTech apps with 500k+ users** to **AR/VR solutions for smart glasses**.  
-I specialize in **mobile systems, backend services, and infrastructure scaling**, combining deep technical expertise with a strong business focus.  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
+![OpenXR](https://img.shields.io/badge/OpenXR-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-📚 Author of **50+ scientific publications** (indexed in ВАК, РИНЦ, SCOPUS),  
-🔑 Holder of **2 patents** in mobile development,  
-🏆 Sports programming background,  
-🌍 Currently pursuing a **Master’s in Digital Economy & Business Analytics** at **Bauman MSTU**.  
+Android & Full Stack Engineer with **4+ years** building products at scale —  
+from **500k+ user** consumer apps to AR/VR systems for smart glasses.
 
----
-
-## 🛠 Tech Stack  
-
-**Mobile:** Kotlin, Java, Coroutines, Flow, Jetpack Compose, Material 3, Custom Views, Android SDK/NDK, JNI, OpenGL ES  
-**Backend:** Node.js (Express, NestJS), Python (FastAPI, Flask), REST, GraphQL, WebSockets  
-**Databases:** PostgreSQL, MS SQL, Room, SQLite, Realm, DataStore  
-**Infra/DevOps:** Docker, GitHub Actions, GitLab CI/CD, Jenkins, PM2, Ubuntu servers  
-**Architecture:** MVVM, MVI, Clean Architecture, SOLID, SDK/Library design  
-**AR/VR & Multimedia:** OpenXR, Unity, ARCore, SLAM, WebRTC, UVCCamera, ZXing, 3D models (GLTF/glb)  
-**Testing:** JUnit, Espresso  
+I sit at the intersection of **engineering, architecture, and product thinking**.  
+I don't just ship features — I design systems that survive growth.  
+Currently pursuing an MSc in Digital Economy & Business Analytics.
 
 ---
 
-## 📈 GitHub Snapshot  
+## 🧠 What I Actually Do
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aristvodolaz&theme=solarized_dark" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aristvodolaz&theme=solarized_dark" width="400"/>
-</div>
+I take complex product requirements and turn them into reliable, scalable systems.  
+Whether it's a real-time video platform, an AR overlay on smart glasses, or a backend  
+that needs to handle 10× traffic — I figure out the architecture, own the execution,  
+and make sure it works in production.
 
 ---
 
-## 📫 Connect With Me  
+## 💼 Key Impact
 
-<div align="center">
-  <a href="https://ru.linkedin.com/in/arina-prokopenko-99895a300"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/corrywilliams"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:kap.moral22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+| | |
+|---|---|
+| **500k+** | Users on shipped products |
+| **50+** | Scientific publications |
+| **2** | Registered patents |
+| **AR/VR** | Smart glasses · OpenXR pipelines |
 
-<br>
+→ Architected WebRTC pipelines for real-time video at scale  
+→ Led end-to-end delivery from system design to production rollout  
+→ Built backend infrastructure handling high-concurrency workloads
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aristvodolaz&style=flat-square&color=4CAF50" alt="Profile views"/>
-</div>
+---
+
+## ⚡ Currently Building
+
+`active` · **WMS platform** — warehouse management with real-time tracking & analytics layer  
+`research` · **AR spatial interfaces** — interaction models for next-gen smart glasses
+
+---
+
+## 🛠 Tech Stack
+
+**Core**  
+`Kotlin` `Android SDK` `Jetpack Compose` `WebRTC` `OpenXR`
+
+**Backend & Infra**  
+`Node.js` `Python` `PostgreSQL` `Docker` `CI/CD`
+
+**Familiar**  
+`React` `TypeScript` `Kubernetes` `Firebase`
+
+---
+
+## 🧩 Engineering Philosophy
+
+- **Systems over features.** Good architecture outlasts good code. I design for the second and third order effects.
+- **Constraints are design input.** Budget, scale, and team size shape the right solution — I optimize for the actual problem.
+- **Ship to learn.** Working software in production tells you more than any spec doc. I bias toward delivery.
+- **Business and engineering are the same conversation.** Technical decisions are business decisions. I speak both languages.
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kap.moral22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR](https://ru.linkedin.com/in/arina-prokopenko-99895a300))
+
+---
+
+<sub>// open to senior / staff engineering roles & architecture consulting</sub>
