@@ -78,7 +78,7 @@ research
 </td>
 <td width="25%" align="center">
 
-### `2`
+### `5`
 **patents**
 
 Registered  
@@ -264,56 +264,7 @@ Focus:
 
 ---
 
-## `06 / How I Think`
-
-### `systems > features`
-
-A feature solves today's ticket.
-
-A system should survive tomorrow's requirements.
-
-I optimize for boundaries, failure modes, ownership and the cost of change — not just whether the happy path works.
-
-### `constraints are architecture`
-
-Scale, budget, hardware, latency, team size and deadlines aren't inconveniences.
-
-They're inputs.
-
-The best architecture is not the most sophisticated one.  
-It's the one that fits the actual system.
-
-### `production is the real benchmark`
-
-```text
-idea → prototype → ship → observe → learn → improve
-```
-
-Working software produces information that diagrams can't.
-
-I prefer short feedback loops and systems that can evolve after they meet reality.
-
-### `engineering = business`
-
-Architecture affects:
-
-```text
-development speed
-      +
-infrastructure cost
-      +
-reliability
-      +
-time to market
-      +
-ability to scale
-```
-
-Technical decisions are business decisions with implementation details.
-
----
-
-## `07 / Engineering Interests`
+## `06 / Engineering Interests`
 
 ```yaml
 interests:
@@ -346,7 +297,7 @@ interests:
 
 ---
 
-## `08 / Connect`
+## `07 / Connect`
 
 <div align="center">
 
